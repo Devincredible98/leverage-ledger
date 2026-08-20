@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/feed"
+  to = "/feed.xml"
+  status = 200
